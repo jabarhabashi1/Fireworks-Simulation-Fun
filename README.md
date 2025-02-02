@@ -63,7 +63,7 @@ This project is **just for fun**! It's a creative way to explore Python's `turtl
 
 ## Credits 🙌
 
-- **Author**: [Your Name]
+- **Author**: [Jabar Habashi]
 - **Inspired by**: The beauty of real-life fireworks and the joy they bring.
 
 ---
