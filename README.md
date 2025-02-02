@@ -18,9 +18,9 @@ The program creates a virtual fireworks show where colorful particles explode an
 ## Features ✨
 
 - **Rainbow Colors**: Each firework and its particles cycle through a spectrum of colors.
-- **Gravity Simulation**: Particles are affected by gravity, making them fall naturally.
+- **Gravity Simulation**: Gravity affects particles, making them fall naturally.
 - **Customizable Settings**: Adjust parameters like particle size, explosion speed, and fade rate to create different effects.
-- **Interactive Fun**: Click on the screen to create your own fireworks display!
+- **Interactive Fun**: Click on the screen to create your fireworks display!
 
 ---
 
@@ -46,11 +46,11 @@ To run this program, you'll need:
 
 ## Customization 🎨
 
-Feel free to tweak the code to create your own unique effects! Here are some parameters you can adjust:
+Feel free to tweak the code to create your unique effects! Here are some parameters you can adjust:
 
 - **`PARTICLE_SIZE`**: Controls the size of the particles.
 - **`EXPLOSION_SPEED`**: Determines how fast the particles spread out.
-- **`FADE_RATE`**: Adjusts how quickly the particles fade away.
+- **`FADE_RATE`**: Adjusts how quickly the particles fade.
 - **`RAINBOW_SPEED`**: Changes how fast the colors cycle.
 
 ---
@@ -63,9 +63,9 @@ This project is **just for fun**! It's a creative way to explore Python's `turtl
 
 ## Credits 🙌
 
-- **Author**: [Jabar Habashi]
+- **Author**: Jabar Habashi
 - **Inspired by**: The beauty of real-life fireworks and the joy they bring.
 
 ---
 
-Enjoy the show, and happy coding! 🎇
+Enjoy the show and happy coding! 🎇
